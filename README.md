@@ -5,7 +5,7 @@
 
 Список курсов:
 
-1. [Yandex Practicum]([https://sql-academy.org/](https://practicum.yandex.ru/data-analyst/)
+1. [Yandex Practicum](https://practicum.yandex.ru/data-analyst/)
 
 Надеюсь, это репозиторий поможет вам оценить мои навыки анализа или вам будет просто интересно просмотреть.
 
