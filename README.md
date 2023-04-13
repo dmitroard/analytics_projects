@@ -14,6 +14,7 @@
 Проекты:
 
 1. [Yandex_music](https://github.com/dmitroard/analytics_projects/tree/main/1_yandex_misic)
+2. [Game_platform_forecast](https://github.com/dmitroard/analytics_projects/tree/main/2.%20%20game_platform_forecast)
 
 Надеюсь, это репозиторий поможет вам оценить мои навыки анализа или вам будет просто интересно просмотреть.
 
